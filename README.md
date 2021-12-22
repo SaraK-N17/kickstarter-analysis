@@ -23,7 +23,7 @@ Analysis was performed considering the theater category and the plays subcategor
 1. The highest number of successful theater campaigns on Kickstarter were launched in May, June and July.
 2. A similar number of theater campaigns fail each month.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals? The campaign goal does not appear to be predictive of the outcome.
 
 - What are some limitations of this dataset?
 
