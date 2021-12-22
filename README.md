@@ -4,10 +4,10 @@
 
 
 ### Purpose
-Provide an analysis of Kickstarter campaigns to determine campaign outcomes in relation to launch dates and funding goals.
+Provide an analysis of Kickstarter campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the best path forward.
 
 ## Analysis and Challenges
-Analysis was performed on Kickstarter campaign data to help Louise investigate outcomes of campaigns similar to hers. Subsets of the data were selected to provide the best comparison to Louise's Kickstarter for her play *Fever*.
+Analysis was performed on Kickstarter campaign data provided to us via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, and subsets of the data were selected to provide the best comparison to Louise's Kickstarter for her play *Fever*. 
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
