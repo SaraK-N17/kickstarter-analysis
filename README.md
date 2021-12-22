@@ -20,8 +20,8 @@ Analysis was performed considering the theater category and the plays subcategor
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- Launch dates in May, June and July have been the most successful for theatre campaigns on Kickstarter.
-- 
+-   The highest number of successful theater campaigns on Kickstarter were launched in May, June and July.
+-   A similar number of theater campaigns fail each month.
 
 - What can you conclude about the Outcomes based on Goals?
 
