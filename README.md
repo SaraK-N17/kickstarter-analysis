@@ -20,12 +20,14 @@ Analysis was performed on Kickstarter campaign data provided via Excel to help L
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
-     1. The highest number of successful theater campaigns on Kickstarter were launched in May, June and July.
-     2. A similar number of theater campaigns fail each month.
+     - The highest number of successful theater campaigns on Kickstarter were launched in May, June and July.
+     - A similar number of theater campaigns fail each month.
 
-- What can you conclude about the Outcomes based on Goals? The campaign goal does not appear to be predictive of the outcome.
+- What can you conclude about the Outcomes based on Goals? 
+     -The campaign goal does not appear to be predictive of the outcome. However, the campaigns with the highest percentage of successful outcomes had goals of less than $1,000. 
 
 - What are some limitations of this dataset?
+      -When filtered down to a subset specific to theater or plays, the data set is fairly small.
 
 - What are some other possible tables and/or graphs that we could create?
 
