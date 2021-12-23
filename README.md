@@ -7,7 +7,7 @@
 Provide an analysis of Kickstarter campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the best path forward.
 
 ## Analysis and Challenges
-Analysis was performed on Kickstarter campaign data provided via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. 
+Analysis was performed on Kickstarter campaign data provided via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. **screenshots?**
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
