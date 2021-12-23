@@ -27,7 +27,6 @@ Analysis was performed on Kickstarter campaign data provided via Excel to help L
      -The campaign goal does not appear to be predictive of the outcome. However, the campaigns with the highest percentage of successful outcomes had goals of less than $1,000. 
 
 - What are some limitations of this dataset?
-      -When filtered down to a subset specific to theater or plays, the data set is fairly small.
 
 - What are some other possible tables and/or graphs that we could create?
 
