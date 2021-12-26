@@ -9,7 +9,7 @@ Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine
 ## Analysis and Challenges
 Analysis was performed on Kickstarter campaign data provided to me via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. Length of campaign, launch date and geographic location were some of the considerations investigated to observe success rates. One challenge that arose was the "Deadline" and "Launched At" columns presented in the Excel sheet were listed in Unix Timestamps. I used the following formula in Excel to convert the Unix Timestamps to a readable date format (where J2 is the "Launched At" date for the entry): 
 
-     ![Launched at Column](https://user-images.githubusercontent.com/95710184/147415048-e19c70a8-3052-4108-a953-9acb2ef4acd5.png)
+     ![Launched at Column](https://user-images.githubusercontent.com/95710184/147415591-0d3ae459-3f74-495d-b92a-aa331f3c8801.png)
 
      ![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415413-4f803f7d-a042-412e-810d-74515e421d38.png)
 
