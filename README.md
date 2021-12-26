@@ -4,10 +4,14 @@
 
 
 ### Purpose
-Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the best path forward.
+Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the highest likelihood her campaign will be funded.
 
 ## Analysis and Challenges
-Analysis was performed on Kickstarter campaign data provided via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. **screenshots?**
+Analysis was performed on Kickstarter campaign data provided via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. Length of campaign, launch date and geogrpahic location were all investigated to observe success rates. One challenge that arose was the "Deadline" and "Launched At" columns presented in the Excel sheet were listed in Unix Timestamps. I used the following formula in Excel to convert the Unix Timestamps to a readable date format(where J2 is the "Launched At" date for the entry): 
+![Launched at Column](https://user-images.githubusercontent.com/95710184/147415029-a8256ac1-2ed0-4d46-97b9-331bbecd8dbb.png)
+
+![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415031-e8890468-b826-4881-b2bd-f750cd2bbd18.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
