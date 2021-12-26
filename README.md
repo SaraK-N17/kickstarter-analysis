@@ -41,6 +41,7 @@ Percentage of successful, failed and canceled campaigns based on initial funding
 
 - What are some other possible tables and/or graphs that we could create?
      - The Outcomes vs. Goals chart presented above as percentages for each successful, failed and canceled based on funding goals is potentially misleading as there are so few campaigns whose funding goals were over $20,000. Presenting this data as counts rather than percentages would provide some insight into the bigger picture and highlight the funding goals of the majority of campaign attempts. 
+     
 ![Count of Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147415577-23931ab0-078f-48d4-83c2-399347ab6291.png)
 
 
