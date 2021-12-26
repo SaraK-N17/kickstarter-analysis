@@ -16,9 +16,11 @@ Analysis was performed on Kickstarter campaign data provided via Excel to help L
 This formula made it possible to present data in the calendar date format, rather than the Unix Timestamp. From the formula conversion, I could easily extrapoloate the month and year of the campaign.
 
 ### Analysis of Outcomes Based on Launch Date
+The number of successful, failed and canceled campaigns based on launch month was investigated. Results are shown in the chart below:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
 
 ### Analysis of Outcomes Based on Goals
+Percentage of successful, failed and canceled campaigns based on initial funding goals are presented below:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147135320-cb6f4bd1-32ac-4cac-bd07-4b63993a5217.png)
 
 ### Challenges and Difficulties Encountered
