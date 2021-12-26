@@ -9,19 +9,19 @@ Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine
 ## Analysis and Challenges
 Analysis was performed on Kickstarter campaign data provided to me via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. Length of campaign, launch date and geographic location were some of the considerations investigated to observe success rates. One challenge that arose was the "Deadline" and "Launched At" columns presented in the Excel sheet were listed in Unix Timestamps. I used the following formula in Excel to convert the Unix Timestamps to a readable date format (where J2 is the "Launched At" date for the entry): 
 
-     ![Launched at Column](https://user-images.githubusercontent.com/95710184/147415591-0d3ae459-3f74-495d-b92a-aa331f3c8801.png)
+![Launched at Column](https://user-images.githubusercontent.com/95710184/147415591-0d3ae459-3f74-495d-b92a-aa331f3c8801.png)
 
-     ![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415413-4f803f7d-a042-412e-810d-74515e421d38.png)
+![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415413-4f803f7d-a042-412e-810d-74515e421d38.png)
 
 This formula made it possible to present data in the calendar date format, rather than the Unix Timestamp. From the formula conversion, I could easily extrapoloate the month and year of the campaign.
 
 ### Analysis of Outcomes Based on Launch Date
 The number of successful, failed and canceled campaigns based on launch month was investigated. Results are shown in the chart below:
-     ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
 
 ### Analysis of Outcomes Based on Goals
 Percentage of successful, failed and canceled campaigns based on initial funding goals are presented below:
-     ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147135320-cb6f4bd1-32ac-4cac-bd07-4b63993a5217.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147135320-cb6f4bd1-32ac-4cac-bd07-4b63993a5217.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -41,6 +41,6 @@ Percentage of successful, failed and canceled campaigns based on initial funding
 
 - What are some other possible tables and/or graphs that we could create?
      -The Outcomes vs. Goals chart presented above as percentages for each successful, failed and canceled based on funding goals is potentially misleading as there are so few campaigns whose funding goals were over $20,000. Presenting this data as counts rather than percentages would provide some insight into the bigger picture and emphasize the funding goals of the majority of campaign attempts. 
-     ![Count of Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147415577-23931ab0-078f-48d4-83c2-399347ab6291.png)
+![Count of Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147415577-23931ab0-078f-48d4-83c2-399347ab6291.png)
 
 
