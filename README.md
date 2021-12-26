@@ -11,7 +11,7 @@ Analysis was performed on Kickstarter campaign data provided via Excel to help L
 
 ![Launched at Column](https://user-images.githubusercontent.com/95710184/147415048-e19c70a8-3052-4108-a953-9acb2ef4acd5.png)
 
-![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415031-e8890468-b826-4881-b2bd-f750cd2bbd18.png)
+![Unix Date Conversion Excel Formula](https://user-images.githubusercontent.com/95710184/147415413-4f803f7d-a042-412e-810d-74515e421d38.png)
 
 This formula made it possible to present data in the calendar date format, rather than the Unix Timestamp. From the formula conversion, I could easily extrapoloate the month and year of the campaign.
 
