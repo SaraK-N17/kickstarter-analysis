@@ -4,7 +4,7 @@
 
 
 ### Purpose
-Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the highest likelihood her campaign will be funded.
+Provide an analysis of [Kickstarter](www.kickstarter.com) campaigns to determine campaign outcomes in relation to launch dates and funding goals. Visualizations and results are shared to understand similar Kickstarter campaigns and to inform Louise of the highest likelihood her campaign would be funded.
 
 ## Analysis and Challenges
 Analysis was performed on Kickstarter campaign data provided via Excel to help Louise investigate outcomes of campaigns similar to hers. Data for a wide variety of campaign categories is presented, creating a large and challenging dataset. I focused on subsets of the data in an effort to provide the best comparison to Louise's Kickstarter for her play *Fever*. Length of campaign, launch date and geogrpahic location were all investigated to observe success rates. One challenge that arose was the "Deadline" and "Launched At" columns presented in the Excel sheet were listed in Unix Timestamps. I used the following formula in Excel to convert the Unix Timestamps to a readable date format(where J2 is the "Launched At" date for the entry): 
