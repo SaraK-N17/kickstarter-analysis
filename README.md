@@ -37,7 +37,7 @@ Percentage of successful, failed and canceled campaigns based on initial funding
      - The campaign goal does not appear to be predictive of the outcome. However, the campaigns with the highest percentage of successful outcomes had goals of less than $1,000. 
 
 - What are some limitations of this dataset?
-     - This dataset has a limitation of including several outliers. If the outliers are not identified and taken into consideration in the analysis, the analysis may be skewed. As seen below, only a small number of projects compared to the total had goals over 20,000. These data points may not be important for Louise's comparison and potentially shoule be omitted.
+     - This dataset has a limitation of including several outliers. If the outliers are not identified and taken into consideration in the analysis, the analysis may be skewed. As seen below, only a small number of projects compared to the total had goals over 20,000. These data points may not be important for Louise's comparison and potentially should be omitted.
 
 ![Goal summary](https://user-images.githubusercontent.com/95710184/147415391-aa67c5b0-a250-4cbd-82ca-28a90a6d228b.png)
 
