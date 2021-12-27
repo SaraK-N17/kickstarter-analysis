@@ -17,6 +17,7 @@ This formula made it possible to present data in the calendar date format, rathe
 
 ### Analysis of Outcomes Based on Launch Date
 The number of successful, failed and canceled campaigns based on launch month was investigated. Results are shown in the chart below:
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95710184/147135311-ab3633ac-2ed7-4ea4-aa40-880a03d42748.png)
 
 ### Analysis of Outcomes Based on Goals
