@@ -22,6 +22,7 @@ The number of successful, failed and canceled campaigns based on launch month wa
 
 ### Analysis of Outcomes Based on Goals
 Percentage of successful, failed and canceled campaigns based on initial funding goals are presented below:
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95710184/147135320-cb6f4bd1-32ac-4cac-bd07-4b63993a5217.png)
 
 ### Challenges and Difficulties Encountered
